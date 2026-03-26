@@ -1,0 +1,10 @@
+.env
+chroma_store/
+__pycache__/
+*.pyc
+*.pt
+node_modules/
+dist/
+*.egg-info/
+.DS_Store
+pdfs/
